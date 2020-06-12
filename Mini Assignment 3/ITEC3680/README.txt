@@ -1,0 +1,62 @@
+The room file is structured in the following format:
+Room number
+Room description
+Has it been visited
+Has item
+Has puzzle
+Has monster
+The room in the north direction
+The room in the east direction
+The room in the south direction
+The room in the west direction
+
+The item file is structured in the following format:
+Item name
+Item description
+Item location
+Is consumable
+Added HP
+Added AP
+Is equipped
+
+The puzzle file is structured in the following format:
+Puzzle location
+Puzzle question
+Puzzle answer
+Number of attempts
+
+The monster file is structured in the following format:
+Monster location
+Monster description
+Monster AP
+Monster HP
+Monster threshold
+
+The help file is the Commands Menu
+
+The Navigation file is structured in the following format:
+Room number
+Beginning dividing line
+Navigation title
+Middle dividing line
+Directions header
+North direction
+East direction
+South direction
+West direction
+Ending dividing line
+
+The map & compass look like this:
+-------------
+| 1 I ¦ 2 M |         N
+--   ---   --         ^
+| 3 I ¦ 4 P |     W <-|-> E
+--   ---   --         v
+| 5 I ¦ 6 I |         S
+-------------
+If you're in room 1, you can only go east into room 2 & south into room 3. There is a consumable item in this room.
+If you're in room 2, you can only go south into room 4 & west into room 1. There is a monster in this room.
+If you're in room 3, you can only go north into room 1, east into room 4, & south into room 5. There is a weapon-like item in this room.
+If you're in room 4, you can only go north into room 2, south into room 6, & west into room 3. There is a puzzle in this room.
+If you're in room 5, you can only go north into room 3 & east into room 6. There is a weapon-like item in this room.
+If you're in room 6, you can only go north into room 4 & west into room 5. There is a weapon-like item in this room.

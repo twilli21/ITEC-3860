@@ -1,0 +1,9 @@
+Food
+It looks like someone left a bag of graham crackers lying around.
+1
+Flashlight
+There is a small flashlight to help me see in the dark.
+3
+Shield
+There is a giant, shiny shield to be used for protection.
+5

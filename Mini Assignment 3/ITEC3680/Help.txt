@@ -1,0 +1,14 @@
+-----------------------------------------------------------
+|                      COMMANDS MENU                      |
+-----------------------------------------------------------
+|You can do the following commands:                       |
+|Type "examine room" to examine the room                  |
+|Type "examine 'item name'" to examine the specific item  |
+|Type "pickup 'item name'" to pickup the specific item    |
+|Type "examine inventory" to examine the player inventory |
+|Type "drop 'item name'" to drop the specific item        |
+|Type "equip 'item name'" to equip the specific item      |
+|Type "unequip" to unequip your current item              |
+|Type "heal" to increase your health points               |
+|Type "N", "S", "E", or "W" to choose your next direction |
+-----------------------------------------------------------

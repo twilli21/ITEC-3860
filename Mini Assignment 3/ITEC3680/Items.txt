@@ -1,0 +1,28 @@
+Food
+It looks like someone left a bag of graham crackers lying around.
+1
+true
+20
+0
+false
+Flashlight
+There is a small flashlight to help me see in the dark.
+3
+false
+0
+5
+false
+Shield
+There is a giant, shiny shield to be used for protection.
+5
+false
+0
+2
+false
+Sword
+There is a heavy, gold sword to be used for fighting.
+6
+false
+0
+50
+false
